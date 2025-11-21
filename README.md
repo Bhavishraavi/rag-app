@@ -88,4 +88,4 @@ Bhavish Raavi
 GitHub: https://github.com/bhavishraavi
 
 ## App Screenshot
-(Rag App screenshot)(images/Screenshot_20-11-2025_194552_local.png)
+![RAG App Screenshot](images/Screenshot_20-11-2025_194552_local.png)
