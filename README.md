@@ -8,6 +8,7 @@ A simple and modern RAG (Retrieval-Augmented Generation) application built with:
 - LangChain
 
 This app lets you upload any PDF, convert it into chunks, store embeddings, and ask questions based on the PDF content.
+<img width="1400" height="1265" alt="image" src="https://github.com/user-attachments/assets/df1b5589-d64b-4143-8c36-98a545ede828" />
 
 
 ## Features
